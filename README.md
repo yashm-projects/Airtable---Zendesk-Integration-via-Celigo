@@ -14,12 +14,15 @@ Import records from the Airtable "Tasks" table and export them in Zendesk as tic
 **HOW?**
 
 **Celigo steps**
+
 <img width="959" height="337" alt="image" src="https://github.com/user-attachments/assets/6eda98fd-f73f-45e0-a654-8ef931f8ddfa" />
 
 **Airtable (source), using the Tasks table to export only those records that have {Send as Zendesk Ticket} ✅**
+
 <img width="917" height="266" alt="image" src="https://github.com/user-attachments/assets/1500d0b3-6e62-4e1f-acae-4d7bd9f48579" />
 
 **Sample tickets imported in Zendesk based on the applied query parameter**
+
 <img width="958" height="290" alt="image" src="https://github.com/user-attachments/assets/e5edb9ba-fed3-4e10-963c-85f51e1b5f08" />
 
 **Mapping in Celigo**
@@ -28,5 +31,6 @@ Import records from the Airtable "Tasks" table and export them in Zendesk as tic
 
 
 **The project is in progress. Next up...**
+
 Build a callback step from Zendesk to Airtable to indicate that the ticket was imported successfully, and then trigger a Slack alert from Airtable to the relevant channels/teams.
 Use a pre-defined schedule to check new tickets and ultimately use a Webhook to run a flow in real time.
