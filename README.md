@@ -23,7 +23,8 @@ Import records from the Airtable "Tasks" table and export them in Zendesk as tic
 
 **Sample tickets imported in Zendesk based on the applied query parameter**
 
-<img width="958" height="290" alt="image" src="https://github.com/user-attachments/assets/e5edb9ba-fed3-4e10-963c-85f51e1b5f08" />
+<img width="959" height="283" alt="image" src="https://github.com/user-attachments/assets/ebaf3806-0b6c-493b-ab65-c74d44fd8305" />
+
 
 **Mapping in Celigo**
 
