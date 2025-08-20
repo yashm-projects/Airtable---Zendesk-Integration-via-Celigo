@@ -8,6 +8,7 @@ This project is still in progress, as I will be tweaking the mapping and integra
 Building out Airtable-Zendesk integration via Celigo.
 
 **WHAT?**
+
 Import records from the Airtable "Tasks" table and export them in Zendesk as tickets.
 
 **HOW?**
